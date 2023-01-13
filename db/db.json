@@ -79,29 +79,6 @@
   ],
   "burgers": [
     {
-      "nome": "João ",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cheddar",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Teste",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
       "nome": "Joaquina",
       "carne": "Veggie burger",
       "pao": "Parmesão e Orégano",
@@ -114,16 +91,6 @@
       "id": 5
     },
     {
-      "nome": "Teste",
-      "carne": "Maminha",
-      "pao": "",
-      "opcionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
       "nome": "Amarildo",
       "carne": "Maminha",
       "pao": "3 Queijos",
@@ -132,8 +99,45 @@
         "Salame",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 7
+    },
+    {
+      "nome": "Marcolino",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Salame",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Finalizado",
+      "id": 8
+    },
+    {
+      "nome": "Dorivaldo",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame",
+        "Bacon",
+        "Pepino",
+        "Tomate",
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Em produção",
+      "id": 9
+    },
+    {
+      "nome": "Amandales",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Tomate"
+      ],
+      "status": "Em produção",
+      "id": 10
     }
   ]
 }
